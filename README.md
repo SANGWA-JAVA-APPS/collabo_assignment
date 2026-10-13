@@ -38,7 +38,7 @@ Visit the online portfolio: [Sangwa Emmanuel](https://www.sangwa.codeguru-pro.co
 The website is based on a Colorlib template. See the template's license and attribution requirements.
 
 
-##Collaborator
+# Collaborator
 
 MATUTINA UWAMAHORO Stella , 
 stacykings110-hash, 
