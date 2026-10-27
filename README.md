@@ -33,12 +33,10 @@ This is a static website. To view it, open `index.html` in a web browser. For a 
 
 Visit the online portfolio: [Sangwa Emmanuel](https://www.sangwa.codeguru-pro.com/)
 
-## Template Attribution
-
-The website is based on a Colorlib template. See the template's license and attribution requirements.
-
 
 ##Test Plan
+
+
 <img width="831" height="237" alt="image" src="https://github.com/user-attachments/assets/a3df1beb-1469-43ca-a224-a424c86511bf" />
 
 
